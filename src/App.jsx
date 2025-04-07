@@ -172,7 +172,8 @@ const App = () => {
               <option value="Comida">Comida</option>
               <option value="Transporte">Transporte</option>
               <option value="Alquiler">Alquiler</option>
-              <option value="Entretenimiento">Entretenimiento</option>
+              <option value="Servicios">Servicios</option>
+              <option value="Impuestos">Impuestos</option>
               <option value="Otros">Otros</option>
             </select>
             <select
